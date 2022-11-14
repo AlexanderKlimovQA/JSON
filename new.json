@@ -1,7 +1,7 @@
 {
- "Full_name": "Klimov Alexander Nicolaevich",
- "Age": "28",
- "Pets": "2 cats",
- "Desired_saalry": "5000 $"
+	"fullName": "Klimov Alexander Nicolaevich",
+	"age": "28",
+	"pets": "2 cats",
+	"desiredSaalry": "5000 $"
 }
  
